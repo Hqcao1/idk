@@ -6,6 +6,6 @@ static int w = 0;
 
 int main() {
     printf("Hello World");
-
+    printf("Change");
     return 0;
 }
